@@ -20,9 +20,9 @@
   transform: scaleX(-1);
 }
 
-.arena___fighter img {
+/* .arena___fighter img {
   height: 480px;
-}
+} */
 
 .arena___fight-status {
   display: flex;

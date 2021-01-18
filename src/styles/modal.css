@@ -7,14 +7,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(128, 128, 128, 0.6);
+  background-size: cover;
+  background-image: url('../../resources/arena.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .modal-root {
   display: flex;
   flex-direction: column;
-  border: 1px solid rgba(0, 0, 0, .2);
-  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: #ffdfa7;
+  border: 5px solid #ca9650;
 }
 
 .modal-header {
